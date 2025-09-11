@@ -213,7 +213,7 @@ default, you must create it manually.
 > such as modifying the size of individual items or changing constants in the code, there are some other
 > options which can be found in the source files in the `config` directory.
 
-<details><summary>Example</summary>
+<details id="example-config"><summary>Example</summary>
 
 ```json
 {
